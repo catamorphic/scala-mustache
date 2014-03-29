@@ -24,4 +24,4 @@ libraryDependencies ++= Seq(
   "com.typesafe.akka" %% "akka-actor" % "2.3-SNAPSHOT" % "test->default"
 )
 
-licenses := Seq("MIT License" -> url("http://opensource.org/licenses/mit-license.html"))
+licenses := Seq("MIT" -> url("http://opensource.org/licenses/mit-license.html"))
